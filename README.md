@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+Passionate Android developer since 2015, I enjoy using coding skills to solve real-world problems and create tools or features that inspire. Always curious and eager to build!
+
+Language:
+- Java
+- Kotlin
+- Python
+- PHP
+
 <!--
 **dreambo4/dreambo4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
